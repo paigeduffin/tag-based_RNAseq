@@ -1,0 +1,11 @@
+g1.t1	isogroup
+g2.t1	isogroup
+g3.t1	isogroup
+g4.t1	isogroup
+g4.t2	isogroup
+g5.t1	isogroup
+g6.t1	isogroup
+g7.t1	isogroup
+g8.t1	isogroup
+g9.t1	isogroup
+g10.t1	isogroup
